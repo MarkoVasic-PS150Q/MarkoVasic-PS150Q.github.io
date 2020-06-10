@@ -4,7 +4,7 @@
 
 This is personal website of Marko Vasic, third grader, enthusiast, basketball player and lovely brother.
 
-### Demo App
+### My Website
 
 Click [here](https://markovasic-ps150q.github.io/index.html) to explore.
 
